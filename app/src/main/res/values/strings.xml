@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS_DPM_TI5A_ABSENSIKELAS</string>
+    <string name="login_class">LOGIN CLASS</string>
+    <string name="login">LOGIN</string>
+    <string name="si">SI</string>
+    <string name="ti">TI</string>
+    <string name="chose_group">Choose a group</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="note">Note :</string>
+    <string name="sakit">SAKIT</string>
+    <string name="click_to_select">CLICK TO SELECT</string>
+    <string name="hadir">HADIR</string>
+    <string name="izin">IZIN</string>
+    <string name="alfa">ALFA</string>
+    <string name="barang_siapa_tidak_hadir_selama_1_bulan_maka_dianggap_tidak_lulus_dan_mengulang_kembali_disemester_depan">Barang siapa tidak hadir selama 1 bulan maka dianggap tidak lulus dan mengulang kembali disemester depan.</string>
+    <string name="back_to_login">Back To Login</string>
+</resources>

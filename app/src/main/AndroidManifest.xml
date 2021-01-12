@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UAS_DPM_TI5A_ABSENSIKELAS">
-        <activity android:name=".Pilih"></activity>
+        <activity android:name=".Sakit"></activity>
+        <activity android:name=".Hadir" />
+        <activity android:name=".Pilih" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

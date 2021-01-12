@@ -32,7 +32,7 @@
         android:id="@+id/view3"
         android:layout_width="332dp"
         android:layout_height="272dp"
-        android:background="#C4C4C4"
+        android:background="@drawable/corner1"
         app:layout_constraintBottom_toTopOf="@+id/view6"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.493"
@@ -59,7 +59,7 @@
         android:id="@+id/view4"
         android:layout_width="263dp"
         android:layout_height="52dp"
-        android:background="#FFFFFF"
+        android:background="@drawable/corner2"
         app:layout_constraintBottom_toBottomOf="@+id/view3"
         app:layout_constraintEnd_toEndOf="@+id/view3"
         app:layout_constraintHorizontal_bias="0.318"
@@ -71,7 +71,7 @@
         android:id="@+id/view5"
         android:layout_width="263dp"
         android:layout_height="52dp"
-        android:background="#FFFFFF"
+        android:background="@drawable/corner2"
         app:layout_constraintBottom_toBottomOf="@+id/view3"
         app:layout_constraintEnd_toEndOf="@+id/view3"
         app:layout_constraintHorizontal_bias="0.318"
@@ -83,7 +83,7 @@
         android:id="@+id/view6"
         android:layout_width="194dp"
         android:layout_height="51dp"
-        android:background="#C4C4C4"
+        android:background="@drawable/corner1"
         app:layout_constraintBottom_toBottomOf="@+id/view2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -170,14 +170,15 @@
 
     <Button
         android:id="@+id/ButtonLogin"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="35dp"
+        android:background="@drawable/corner3"
         android:text="@string/login"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/view6"
-        app:layout_constraintVertical_bias="0.236" />
+        app:layout_constraintVertical_bias="0.462" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

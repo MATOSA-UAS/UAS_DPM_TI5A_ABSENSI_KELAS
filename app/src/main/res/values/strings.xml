@@ -16,4 +16,17 @@
     <string name="alfa">ALFA</string>
     <string name="barang_siapa_tidak_hadir_selama_1_bulan_maka_dianggap_tidak_lulus_dan_mengulang_kembali_disemester_depan">Barang siapa tidak hadir selama 1 bulan maka dianggap tidak lulus dan mengulang kembali disemester depan.</string>
     <string name="back_to_login">Back To Login</string>
+    <string name="txthadir">HADIR</string>
+    <string name="bagas">Bagas</string>
+    <string name="maman">Maman</string>
+    <string name="ikhsan">Ikhsan</string>
+    <string name="budi">Budi</string>
+    <string name="bagus">Bagus</string>
+    <string name="torik">Torik</string>
+    <string name="txtsakit">SAKIT</string>
+    <string name="agus">Agus</string>
+    <string name="fatur">Fatur</string>
+    <string name="bila">Bila</string>
+    <string name="obrain">Obrain</string>
+    <string name="back_to_select">Back To Select</string>
 </resources>

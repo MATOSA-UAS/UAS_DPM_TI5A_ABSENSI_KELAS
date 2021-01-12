@@ -40,5 +40,23 @@ public class Pilih extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+        Button izin = (Button)findViewById(R.id.ButtonIzin) ;
+        izin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(Pilih.this, Izin.class);
+                startActivity(i);
+            }
+        });
+
+        Button alfa = (Button)findViewById(R.id.ButtonAlfa) ;
+        alfa.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(Pilih.this, Alfa.class);
+                startActivity(i);
+            }
+        });
     }
 }
